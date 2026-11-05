@@ -1,0 +1,22 @@
+{
+  "wheel_id": 747,
+  "structure": "umbrella",
+  "slug": "toowoombahousepainting-159",
+  "project": "house-painters-toowoomba-questions-to-ask-f26a8272c0f07a3bb9a5c",
+  "parent_t1_ref": "toowoombahousepainting-014",
+  "node_role": "buffer",
+  "money_target": "toowoombahousepainting.com.au",
+  "primary_kw": "house painters toowoomba questions to ask",
+  "intended_url": "https://sitesau.github.io/toowoombahousepainting-159/",
+  "tier": "T2",
+  "writeback_nonce": "7bae0e7c6bade702",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/house-painters-toowoomba-toowoombahousepainting-014/",
+      "anchor": "more on house painters toowoomba",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
